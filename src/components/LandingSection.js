@@ -4,7 +4,7 @@ import FullScreenSection from "./FullScreenSection";
 import ingila from '../images/ingila.jpg';
 
 const greeting = "Hello, I am Ingila!";
-const bio1 = "A full stack developer";
+const bio1 = "A full stack developer passionate about React";
 const bio2 = "You can use this portfolio template for your UI/UX profile";
 const bio3 = "";
 
